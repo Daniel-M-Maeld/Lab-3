@@ -5,7 +5,7 @@ import pygame
 
 pygame.init()
 pygame.mixer.init()
-pygame.mixer.music.load("fire.gif")
+pygame.mixer.music.load("Heroes.mp3")
 pygame.mixer.music.play()
 
 
